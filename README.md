@@ -1,21 +1,14 @@
 # Rockets
 CAD Designs, Decal Illustrations, Telemetry Code & other useful resources for non-commercial use only
 
+![image](https://user-images.githubusercontent.com/34741418/194072154-63f9891f-2aa2-45ae-869d-098f2a00a26f.png)
+
 Model Rocketry Workshops
-2022 Aerospace Society Agenda (every wednesday 2-4pm)
-OCTOBER
-     5th - Tools & Techniques in the Workshop
-			§ Rocket components Sketch
-			§ Single stage rocket flight sketch
-			§ NAR Model Rocket Safety Code https://www.nar.org/safety-information/model-rocket-safety-code/
-			§ Cradle Stand creation (REQ: Cutting matts, knife, ruler cardboard, glue, tape)
-     12th - Model Rocket Construction
-     19th - Model Rocket Motors
-     26th - Ignition & Ignition Systems
+2022 Aerospace Society Agenda (every Wednesday 2-4pm)
 NOVEMBER
-     2nd - Launchers & Launching Techniques
-     9th - How High Will It Go?
-    16th - Stability
+     2nd - Introduction, Safety Code & Stability
+     9th -  Launchers & Launching Techniques
+    16th - Model Rocket Motors, How High Will It Go?
      23rd - Model Rocket Aerodynamics
      30th - Multistage Model Rockets
 
@@ -25,7 +18,7 @@ DECEMBER
      21st - Building & Flying Large Models
      28th - HOLIDAYS (no workshop this week)
  
-2023 Aerospace Society Agenda (every wednesday 2-4pm) 
+2023 Aerospace Society Agenda (every Wednesday 2-4pm) 
 
 JANUARY
     4th -  HOLIDAYS (no workshop this week)
@@ -36,11 +29,11 @@ JANUARY
 FEBRUARY
      1st - Model Rocket Ranges & Individual Test Flights (Location TBC)
      8th - Replica Space Rocket Group Project Begins (Brainstorming)
-     15th - CAD Design of replica space rocket (e.g. Saturn V)
+     15th - CAD Design of replica space rocket (e.g. Saturn V, NASA SLS)
      22nd - CAD Design of Launcher, Telemetry, Ignition System
  
 MARCH
-     1st - Requirments Specification & Procurement
+     1st - Requirements Specification & Procurement
      8th - Launch Day Organisation & Planning
      15th - Rocket Assembly
      22nd - Launcher Assembly
@@ -48,6 +41,9 @@ MARCH
 APRIL
      5th - Telemetry setup, configuration and logging
      12th - Simulation & Testing of proposed design
-     19th - Presentation, Feeback & Awards Celebration
-     26th - LAUNCH DAY!
-![image](https://user-images.githubusercontent.com/34741418/194067513-92b1f288-1b6b-4d7b-ac9c-2665371bceea.png)
+     19th - Complete Graphic Design & Print/Paint
+     26th - Final Safety checks & Design Reviews
+
+MAY
+LAUNCH DAY! May the 4th be with you
+ - Presentation, Feedback & Awards Celebration
