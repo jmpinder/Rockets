@@ -1,7 +1,8 @@
 # Rockets
 CAD Designs, Decal Illustrations, Telemetry Code & other useful resources for non-commercial use only
 
-UCLan Aerospace Society 2022 Model Rocketry Workshops Agenda:
+Model Rocketry Workshops
+2022 Aerospace Society Agenda (every wednesday 2-4pm)
 OCTOBER
      5th - Tools & Techniques in the Workshop
 			§ Rocket components Sketch
@@ -49,15 +50,4 @@ APRIL
      12th - Simulation & Testing of proposed design
      19th - Presentation, Feeback & Awards Celebration
      26th - LAUNCH DAY!
- 
- 
- Reference Material:
-ESTES - Model Rocketry Technical Manual 
-ESTES - Engine Chart 
-ESTES - 1969 Catalogue of Rockets & Technical Information
-OpenRocket - Free Rocket Simulator Software
-Payloadbay - Fin Guide Tool - https://www.payloadbay.com/index.php
-https://stem4ks.com/wp-content/uploads/2015/04/FinGuide_Up_to_8_Wings.pdf
-
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fpeer.asee.org%2Fuse-of-single-stage-model-rockets-to-teach-some-engineering-principles-and-practices-to-first-year-engineering-and-engineering-technology-students.pdf&psig=AOvVaw0hkvAunFyQuXSp6wJj9KIA&ust=1664974841613000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCMiA3OPQxvoCFQAAAAAdAAAAABA
-![image](https://user-images.githubusercontent.com/34741418/194067195-2adcf2d2-6237-4557-835e-00a5ed58837e.png)
+![image](https://user-images.githubusercontent.com/34741418/194067513-92b1f288-1b6b-4d7b-ac9c-2665371bceea.png)
